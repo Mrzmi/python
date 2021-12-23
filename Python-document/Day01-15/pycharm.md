@@ -1,3 +1,29 @@
+**更换 Python 解释器**
+
+如果你系统里有多个版本的python，你想更换解释器，请使用下面的方法：
+
+在File->Setting->Projec: xxx 下找到 Project Interpreter。然后修改为你需要的 Python 解释器。注意这个地方一定要注意的是：在选择 Python 解释器的时候，一定要选择到 python.exe 这个文件，而不是 python 的安装文件夹。
+
+**File--settings  设置文件编码**
+
+![4.jpg](https://www.django.cn/media/upimg/4_20180829211506_484.jpg)
+
+**File--settings  修改文件背景颜色**
+
+![6.jpg](https://www.django.cn/media/upimg/6_20180829212144_757.jpg)
+
+**让一个 tab 键代替 4 个空格键**
+
+![7.jpg](https://www.django.cn/media/upimg/7_20180829212323_724.jpg)
+
+**设置模板**
+
+![9.jpg](https://www.django.cn/media/upimg/9_20180829214759_189.jpg)
+
+其他操作https://www.cnblogs.com/djangocn/p/10227015.html
+
+**把文件打包成exe**
+
 首先我们需要安装 PyInstaller， 当然用pip命令安装喽，如下
 
 ```
